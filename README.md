@@ -3,7 +3,7 @@
 Senior DevOps / Platform Engineer. I run production infrastructure for game and product companies as a contractor: AWS/EKS, Terraform, CI/CD, observability, and AI-agent automation for ops.
 
 - Site: [ivantriputen.pages.dev](https://ivantriputen.pages.dev/)
-- Email: davidmagvay@gmail.com
+- Email: ivan.burusman@gmail.com
 
 ---
 
